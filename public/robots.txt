@@ -1,0 +1,11 @@
+# robots.txt for Mama's Treat
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mamastreat.co.in/sitemap.xml
+
+# Disallow admin or private areas if any
+# Disallow: /admin/
+# Disallow: /private/
